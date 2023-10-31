@@ -1,0 +1,4 @@
+almamun,mamun@gmail.com,1234,admin
+rupok,rupok@gmail.com,1111,manager
+salman,salman@gmail.com,1111,user
+Al Mamun,learneralmamun@gmail.com,mamun,user
